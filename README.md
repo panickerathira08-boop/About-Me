@@ -1,7 +1,7 @@
 # Hi, I'm Athira Panicker
 
 🎓 I am an M,tech Data Science student skilled in AI & Data Science  
-💻 Skills: Explainable AI, Python, ML, Deep Learning, SQL , SAS, MS Office Tools, Data Visualization Tools(Tableau, PowerBI)
+💻 Skills: Explainable AI, Python, ML, Deep Learning, SQL , SAS, MS Office Tools, Data Visualization Tools(Tableau, Power BI)
 
 
 🚀 Projects
