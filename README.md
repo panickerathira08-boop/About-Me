@@ -5,16 +5,12 @@
 
 
 🚀 Projects
-- Multimodal Stress Detection using Deep Learning Models 
+- Classification of mental stress induced myocardial ischemia based on Deep Learning Models on multimodal dataset
 - Statistical Modelling Framework for Integrating Real-World Data with Clinical Trial Evidence
 - Automating SDTM-ADaM Mapping in Clinical Research using Agentic AI and NLP
 - Nonlinear Dependency Analysis of ENSO
 - Using Explainable AI to Unveil Gut Microbiome–Disease Relationships: A Comparative Approach
-- Dementia Prediction using Recursive Logistic Regression & Explainable AI
-- Inferring Skin–Brain–Skin Connections from Infodemiology Data using Dynamic Bayesian Networks
-- Chromafactor: Deconvolution of Single-Molecule Chromatin Organization using NMF
-- Image preprocessing-based ensemble deep learning classification of diabetic retinopathy
-- 
+  
 📚 Research Paper Reproductions / Implementations
 *(Implemented for learning ; original credit to respective authors)*
 - Dementia Prediction using Recursive Logistic Regression & Explainable AI  
